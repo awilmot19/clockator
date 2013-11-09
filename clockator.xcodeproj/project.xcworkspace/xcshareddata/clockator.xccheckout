@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5CA64820-3013-4E32-BEB8-89E12F0B0127</string>
+	<key>IDESourceControlProjectName</key>
+	<string>clockator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9311A66C-C66E-44D9-B42A-F962868EBD7B</key>
+		<string>https://github.com/awilmot19/clockator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>clockator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9311A66C-C66E-44D9-B42A-F962868EBD7B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/awilmot19/clockator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9311A66C-C66E-44D9-B42A-F962868EBD7B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9311A66C-C66E-44D9-B42A-F962868EBD7B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>clockator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
