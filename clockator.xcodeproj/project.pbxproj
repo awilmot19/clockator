@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		292FB5EE182E36D200014DDA /* ClockViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 292FB5ED182E36D200014DDA /* ClockViewController.m */; };
+		292FB5F1182E39A100014DDA /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 292FB5F0182E39A100014DDA /* SettingsViewController.m */; };
 		A1DDA9A5182DF0C4003DEA8E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1DDA9A4182DF0C4003DEA8E /* Foundation.framework */; };
 		A1DDA9A7182DF0C4003DEA8E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1DDA9A6182DF0C4003DEA8E /* CoreGraphics.framework */; };
 		A1DDA9A9182DF0C4003DEA8E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1DDA9A8182DF0C4003DEA8E /* UIKit.framework */; };
@@ -35,6 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		292FB5EC182E36D200014DDA /* ClockViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClockViewController.h; sourceTree = "<group>"; };
+		292FB5ED182E36D200014DDA /* ClockViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClockViewController.m; sourceTree = "<group>"; };
+		292FB5EF182E39A100014DDA /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		292FB5F0182E39A100014DDA /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 		A1DDA9A1182DF0C4003DEA8E /* clockator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = clockator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1DDA9A4182DF0C4003DEA8E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A1DDA9A6182DF0C4003DEA8E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -117,6 +123,10 @@
 				A1DDA9B3182DF0C4003DEA8E /* AppDelegate.h */,
 				A1DDA9B4182DF0C4003DEA8E /* AppDelegate.m */,
 				A1DDA9B6182DF0C4003DEA8E /* Main_iPhone.storyboard */,
+				292FB5EF182E39A100014DDA /* SettingsViewController.h */,
+				292FB5F0182E39A100014DDA /* SettingsViewController.m */,
+				292FB5EC182E36D200014DDA /* ClockViewController.h */,
+				292FB5ED182E36D200014DDA /* ClockViewController.m */,
 				A1DDA9B9182DF0C4003DEA8E /* Main_iPad.storyboard */,
 				A1DDA9BC182DF0C4003DEA8E /* ViewController.h */,
 				A1DDA9BD182DF0C4003DEA8E /* ViewController.m */,
@@ -255,7 +265,9 @@
 			files = (
 				A1DDA9BE182DF0C4003DEA8E /* ViewController.m in Sources */,
 				A1DDA9B5182DF0C4003DEA8E /* AppDelegate.m in Sources */,
+				292FB5F1182E39A100014DDA /* SettingsViewController.m in Sources */,
 				A1DDA9B1182DF0C4003DEA8E /* main.m in Sources */,
+				292FB5EE182E36D200014DDA /* ClockViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -474,6 +486,7 @@
 				A1DDA9D8182DF0C5003DEA8E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A1DDA9D9182DF0C5003DEA8E /* Build configuration list for PBXNativeTarget "clockatorTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +495,7 @@
 				A1DDA9DB182DF0C5003DEA8E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
