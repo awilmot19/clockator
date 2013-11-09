@@ -22,6 +22,7 @@
 		A1DDA9C9182DF0C4003DEA8E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1DDA9A8182DF0C4003DEA8E /* UIKit.framework */; };
 		A1DDA9D1182DF0C5003DEA8E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A1DDA9CF182DF0C5003DEA8E /* InfoPlist.strings */; };
 		A1DDA9D3182DF0C5003DEA8E /* clockatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A1DDA9D2182DF0C5003DEA8E /* clockatorTests.m */; };
+		A1DDA9E9182E0688003DEA8E /* arrowTotal.png in Resources */ = {isa = PBXBuildFile; fileRef = A1DDA9E8182E0688003DEA8E /* arrowTotal.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		A1DDA9CE182DF0C5003DEA8E /* clockatorTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "clockatorTests-Info.plist"; sourceTree = "<group>"; };
 		A1DDA9D0182DF0C5003DEA8E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A1DDA9D2182DF0C5003DEA8E /* clockatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = clockatorTests.m; sourceTree = "<group>"; };
+		A1DDA9E8182E0688003DEA8E /* arrowTotal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrowTotal.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 		A1DDA9AA182DF0C4003DEA8E /* clockator */ = {
 			isa = PBXGroup;
 			children = (
+				A1DDA9E8182E0688003DEA8E /* arrowTotal.png */,
 				A1DDA9B3182DF0C4003DEA8E /* AppDelegate.h */,
 				A1DDA9B4182DF0C4003DEA8E /* AppDelegate.m */,
 				A1DDA9B6182DF0C4003DEA8E /* Main_iPhone.storyboard */,
@@ -235,6 +238,7 @@
 				A1DDA9C0182DF0C4003DEA8E /* Images.xcassets in Resources */,
 				A1DDA9B8182DF0C4003DEA8E /* Main_iPhone.storyboard in Resources */,
 				A1DDA9AF182DF0C4003DEA8E /* InfoPlist.strings in Resources */,
+				A1DDA9E9182E0688003DEA8E /* arrowTotal.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
